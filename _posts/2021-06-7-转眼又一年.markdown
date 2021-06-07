@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "转眼又一年了"
+date:   2021-06-7 21:46:58 +0800
+categories: notices
+
+---
+
+时间太快了，博客还是没搞起来，加油啊
